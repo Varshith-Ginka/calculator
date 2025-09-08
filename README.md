@@ -9,10 +9,10 @@ A simple web app to perform basic arithmetic operations with a clean UI.
 📸 Screenshot
 
 ### Screenshot 1  
-![App Screenshot 1](images/screenshot1.png)  
+![App Screenshot 1](images/Screenshot1.png)  
 
 ### Screenshot 2  
-![App Screenshot 2](images/screenshot2.png)  
+![App Screenshot 2](images/Screenshot2.png)  
 
 ⚡ Features
 
