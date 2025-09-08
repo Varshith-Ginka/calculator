@@ -8,6 +8,12 @@ A simple web app to perform basic arithmetic operations with a clean UI.
 
 📸 Screenshot
 
+### Screenshot 1  
+![App Screenshot 1](images/screenshot1.png)  
+
+### Screenshot 2  
+![App Screenshot 2](images/screenshot2.png)  
+
 ⚡ Features
 
 Perform addition, subtraction, multiplication, and division
