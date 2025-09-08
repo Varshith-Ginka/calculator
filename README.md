@@ -6,7 +6,7 @@ A simple web app to perform basic arithmetic operations with a clean UI.
 
 👉 Click here https://varshith-ginka.github.io/calculator/
 
-📸 Screenshot
+📸 *Screenshots*
 
 ### Screenshot 1  
 ![App Screenshot 1](images/Screenshot1.png)  
